@@ -97,3 +97,10 @@ html, body {
 .btn.nav-link.active {
     border-radius: 50px;
 }
+
+.x{
+    position: relative;
+    background: pink;
+    width: 100%;
+    height: 100vh;
+  }
